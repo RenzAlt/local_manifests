@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="Eldarion"
-          fetch="https://github.com/Mi-Eldarion"
+  <remote name="RenzAlt"
+          fetch="https://github.com/RenzAlt"
           revision="a13/master" />
 
   <remote name="Titanium"
@@ -17,6 +17,6 @@
            revision="a13/master" />
 
  <!-- VINCE -->
-  <project path="device/xiaomi/vince"        name="android_device_xiaomi_vince"        groups="device" remote="Titanium" revision="15"/>
+  <project path="device/xiaomi/vince"        name="device_xiaomi_vince"        groups="device" remote="RenzAlt" revision="13"/>
   
 </manifest>
